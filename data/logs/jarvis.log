@@ -1,0 +1,208 @@
+2025-05-10 09:19:21,978 - jarvis - INFO - Инициализация Джарвиса
+2025-05-10 09:19:21,979 - jarvis.memory - INFO - Система памяти инициализирована
+2025-05-10 09:19:22,130 - jarvis.speech - INFO - Речевой движок инициализирован
+2025-05-10 09:19:22,130 - jarvis.ai - INFO - ИИ инициализирован, модель: gpt-4
+2025-05-10 09:19:22,130 - jarvis.system - INFO - Модуль системных команд инициализирован
+2025-05-10 09:19:22,130 - jarvis.apps - INFO - Менеджер приложений инициализирован
+2025-05-10 09:19:35,455 - jarvis - INFO - Получена команда: открой блокнот
+2025-05-10 09:19:35,456 - jarvis.apps - INFO - Попытка открыть приложение: блокнот
+2025-05-10 09:19:35,492 - jarvis - INFO - Ответ: Открываю блокнот
+2025-05-10 09:19:46,409 - jarvis - INFO - Получена команда: открой калькулятор
+2025-05-10 09:19:46,410 - jarvis.apps - INFO - Попытка открыть приложение: калькулятор
+2025-05-10 09:19:46,416 - jarvis - INFO - Ответ: Открываю калькулятор
+2025-05-10 09:19:54,295 - jarvis - INFO - Получена команда: сделай скриншот
+2025-05-10 09:19:54,295 - jarvis.system - INFO - Делаю скриншот
+2025-05-10 09:19:54,389 - jarvis - INFO - Ответ: Скриншот сохранен: C:\Users\default.LAPTOP-8F3JH7LR\OneDrive\Desktop\AI_assistant\data\media\screenshot_1746854394.png
+2025-05-10 09:20:19,380 - jarvis - INFO - Получена команда: открой youtube
+2025-05-10 09:20:19,380 - jarvis.apps - INFO - Попытка открыть приложение: youtube
+2025-05-10 09:20:19,424 - jarvis - INFO - Ответ: Открываю youtube
+2025-05-10 09:20:24,732 - jarvis - INFO - Получена команда: найти рецепт
+2025-05-10 09:20:24,732 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:20:24,732 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:20:32,754 - jarvis - INFO - Получена команда: найти рецепт пиццы
+2025-05-10 09:20:32,754 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:20:32,754 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:20:47,383 - jarvis - INFO - Получена команда: найди рецепт пиццы
+2025-05-10 09:20:47,383 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:20:47,383 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:20:56,384 - jarvis - INFO - Получена команда: найди информацию о машинном обучении
+2025-05-10 09:20:56,385 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:20:56,385 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:21:02,811 - jarvis - INFO - Получена команда: какая сегодня погода
+2025-05-10 09:21:02,811 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:21:02,811 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:21:09,293 - jarvis - INFO - Получена команда: сколько времени
+2025-05-10 09:21:09,293 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:21:09,294 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:21:21,895 - jarvis - INFO - Получена команда: кто президент россии
+2025-05-10 09:21:21,896 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:21:21,896 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:21:27,174 - jarvis - INFO - Получена команда: джарвис
+2025-05-10 09:21:27,174 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:21:27,174 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:21:37,626 - jarvis - INFO - Получена команда: покажи рабочий стол
+2025-05-10 09:21:37,626 - jarvis - INFO - Ответ: До свидания!
+2025-05-10 09:21:37,880 - jarvis - INFO - Завершение работы Джарвиса
+2025-05-10 09:21:46,944 - jarvis - INFO - Инициализация Джарвиса
+2025-05-10 09:21:46,950 - jarvis.memory - INFO - Система памяти инициализирована
+2025-05-10 09:21:47,052 - jarvis.speech - INFO - Речевой движок инициализирован
+2025-05-10 09:21:47,053 - jarvis.ai - INFO - ИИ инициализирован, модель: gpt-4
+2025-05-10 09:21:47,053 - jarvis.system - INFO - Модуль системных команд инициализирован
+2025-05-10 09:21:47,053 - jarvis.apps - INFO - Менеджер приложений инициализирован
+2025-05-10 09:21:53,197 - jarvis - INFO - Получена команда: выключи звук
+2025-05-10 09:21:53,197 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:21:53,197 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:22:04,680 - jarvis - INFO - Получена команда: включи звук
+2025-05-10 09:22:04,680 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:22:04,680 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:22:12,994 - jarvis - INFO - Получена команда: измени голос
+2025-05-10 09:22:12,994 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:22:12,994 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:22:24,791 - jarvis - INFO - Получена команда: открой погоду
+2025-05-10 09:22:24,791 - jarvis.apps - INFO - Попытка открыть приложение: погоду
+2025-05-10 09:22:24,791 - jarvis - INFO - Ответ: Не знаю, как открыть погоду
+2025-05-10 09:22:35,420 - jarvis - INFO - Получена команда: найди youtube
+2025-05-10 09:22:35,420 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:22:35,420 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:22:46,413 - jarvis - INFO - Получена команда: помощь
+2025-05-10 09:22:46,413 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:22:46,413 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:22:52,192 - jarvis.speech - WARNING - Не удалось распознать речь
+2025-05-10 09:25:47,708 - jarvis - INFO - Инициализация Джарвиса
+2025-05-10 09:25:47,708 - jarvis.memory - INFO - Система памяти инициализирована
+2025-05-10 09:25:47,807 - jarvis.speech - INFO - Речевой движок инициализирован
+2025-05-10 09:25:47,807 - jarvis.ai - INFO - ИИ инициализирован, модель: gpt-4
+2025-05-10 09:25:47,807 - jarvis.system - INFO - Модуль системных команд инициализирован
+2025-05-10 09:25:47,807 - jarvis.apps - INFO - Менеджер приложений инициализирован
+2025-05-10 09:25:56,731 - jarvis - INFO - Получена команда: открой youtube
+2025-05-10 09:25:56,731 - jarvis.apps - INFO - Попытка открыть приложение: youtube
+2025-05-10 09:25:56,774 - jarvis - INFO - Ответ: Открываю youtube
+2025-05-10 09:26:05,768 - jarvis - INFO - Получена команда: найти нейросеть
+2025-05-10 09:26:05,768 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:26:05,768 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.

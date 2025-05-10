@@ -1,0 +1,39 @@
+{
+    "system_commands": {
+        "выключи компьютер": "shutdown",
+        "перезагрузи компьютер": "restart",
+        "заблокируй компьютер": "lock_computer",
+        "сделай скриншот": "take_screenshot",
+        "сделай снимок экрана": "take_screenshot"
+    },
+    "app_commands": {
+        "открой": "open_application"
+    },
+    "search_commands": {
+        "найди": "search",
+        "поиск": "search",
+        "загугли": "search",
+        "найти рецепт": "search_recipe",
+        "как приготовить": "search_recipe",
+        "найди видео": "search_video",
+        "поищи информацию": "search"
+    },
+    "personal_commands": {
+        "который час": "get_time",
+        "сколько времени": "get_time",
+        "время сейчас": "get_time",
+        "текущее время": "get_time",
+        "какое сегодня число": "get_date",
+        "какая сегодня дата": "get_date",
+        "дата сегодня": "get_date",
+        "число сегодня": "get_date",
+        "погода": "get_weather",
+        "прогноз погоды": "get_weather"
+    },
+    "exit_commands": {
+        "пока": "exit",
+        "выключись": "exit",
+        "до свидания": "exit",
+        "выход": "exit"
+    }
+}

@@ -206,3 +206,58 @@ Alternatively, you can pin your installation to the old version, e.g. `pip insta
 A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
 
 2025-05-10 09:26:05,768 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:52:15,067 - jarvis - INFO - Инициализация Джарвиса
+2025-05-10 09:52:15,074 - jarvis.memory - INFO - Система памяти инициализирована
+2025-05-10 09:52:15,193 - jarvis.speech - INFO - Речевой движок инициализирован
+2025-05-10 09:52:15,193 - jarvis.ai - INFO - ИИ инициализирован, модель: gpt-4
+2025-05-10 09:52:15,193 - jarvis.system - INFO - Модуль системных команд инициализирован
+2025-05-10 09:52:15,193 - jarvis.apps - INFO - Менеджер приложений инициализирован
+2025-05-10 09:52:15,193 - jarvis.web_search - INFO - Модуль веб-поиска инициализирован
+2025-05-10 09:52:15,194 - jarvis.personal - INFO - Модуль персонального ассистента инициализирован
+2025-05-10 09:52:28,001 - jarvis - INFO - Получена команда: открой youtube
+2025-05-10 09:52:28,001 - jarvis - INFO - Категория: app_commands, Действие: open_application, Параметры: youtube
+2025-05-10 09:52:28,001 - jarvis.apps - INFO - Попытка открыть приложение: youtube
+2025-05-10 09:52:28,048 - jarvis - INFO - Ответ: Открываю youtube
+2025-05-10 09:52:36,108 - jarvis - INFO - Получена команда: найти рецепт пи
+2025-05-10 09:52:36,108 - jarvis - INFO - Категория: search_commands, Действие: search_recipe, Параметры: пи
+2025-05-10 09:52:36,108 - jarvis.web_search - INFO - Специализированный поиск: 'пи', тип: рецепт
+2025-05-10 09:52:36,121 - jarvis - INFO - Ответ: Ищу рецепт по запросу 'пи'
+2025-05-10 09:52:47,242 - jarvis - INFO - Получена команда: найти информацию ай
+2025-05-10 09:52:47,243 - jarvis.web_search - INFO - Поиск запроса: 'информацию ай' в google
+2025-05-10 09:52:47,252 - jarvis - INFO - Категория: web_search, Действие: parse_intent, Параметры: найти информацию ай
+2025-05-10 09:52:47,252 - jarvis.web_search - INFO - Поиск запроса: 'информацию ай' в google
+2025-05-10 09:52:47,263 - jarvis - INFO - Ответ: Ищу 'информацию ай' в google
+2025-05-10 09:53:03,723 - jarvis - INFO - Получена команда: найти информацию про искусственный интеллект
+2025-05-10 09:53:03,723 - jarvis.web_search - INFO - Поиск запроса: 'информацию про искусственный интеллект' в google
+2025-05-10 09:53:03,733 - jarvis - INFO - Категория: web_search, Действие: parse_intent, Параметры: найти информацию про искусственный интеллект
+2025-05-10 09:53:03,733 - jarvis.web_search - INFO - Поиск запроса: 'информацию про искусственный интеллект' в google
+2025-05-10 09:53:03,744 - jarvis - INFO - Ответ: Ищу 'информацию про искусственный интеллект' в google
+2025-05-10 09:53:18,247 - jarvis - INFO - Получена команда: как ты
+2025-05-10 09:53:18,247 - jarvis - INFO - Категория: ai, Действие: process, Параметры: как ты
+2025-05-10 09:53:18,247 - jarvis - INFO - Ответ: API ключ не настроен. Пожалуйста, добавьте ключ API в настройках.
+2025-05-10 09:53:55,386 - jarvis - INFO - Инициализация Джарвиса
+2025-05-10 09:53:55,392 - jarvis.memory - INFO - Система памяти инициализирована
+2025-05-10 09:53:55,508 - jarvis.speech - INFO - Речевой движок инициализирован
+2025-05-10 09:53:55,508 - jarvis.ai - INFO - ИИ инициализирован, модель: gpt-4
+2025-05-10 09:53:55,508 - jarvis.system - INFO - Модуль системных команд инициализирован
+2025-05-10 09:53:55,508 - jarvis.apps - INFO - Менеджер приложений инициализирован
+2025-05-10 09:53:55,508 - jarvis.web_search - INFO - Модуль веб-поиска инициализирован
+2025-05-10 09:53:55,509 - jarvis.personal - INFO - Модуль персонального ассистента инициализирован
+2025-05-10 09:54:03,354 - jarvis - INFO - Получена команда: как ты
+2025-05-10 09:54:03,355 - jarvis - INFO - Категория: ai, Действие: process, Параметры: как ты
+2025-05-10 09:54:03,355 - jarvis.ai - ERROR - Ошибка при запросе к API: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-05-10 09:54:03,355 - jarvis - INFO - Ответ: Извините, у меня возникла проблема при обработке вашего запроса.
+2025-05-10 09:54:18,483 - jarvis.speech - WARNING - Не удалось распознать речь
+2025-05-10 09:54:22,467 - jarvis.speech - WARNING - Не удалось распознать речь
+2025-05-10 09:54:27,281 - jarvis.speech - WARNING - Не удалось распознать речь
+2025-05-10 09:54:32,981 - jarvis.speech - WARNING - Не удалось распознать речь
+2025-05-10 09:54:37,569 - jarvis.speech - WARNING - Не удалось распознать речь
